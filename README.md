@@ -7,7 +7,27 @@ This project focuses on analyzing internship data scraped from Internshala. The 
 
 ## Dashboard Preview
 
-![Dashboard](dashboard/Dashboard_photo.png)
+![Power BI Dashboard](Power%20Bi%20Dashboard/Dashboard_photo.png)
+
+## Notebooks
+
+### Web Scraping
+
+![Scraping Internshala Data using Python](Notebooks/SCRAPING_DATA_FROM_INTERNSHALA_WEBSITE_USING_PYTHON.png)
+
+[View Full Scraping Notebook](Notebooks/internshala_data_scraping.ipynb)
+
+### Data Cleaning & EDA
+
+![Importing Cleaning EDA using Pandas](Notebooks/IMPORTING%20-%20CLEANING%20-%20EDA%20OF%20SCRAPED_DATA_USING_PANDAS.png)
+
+[View Full EDA Notebook](Notebooks/internshala_data_EDA.ipynb)
+
+## SQL Querying
+
+Queried the scraped data using PostgreSQL:
+
+![SQL Querying in PostgreSQL](SQL_Querying/QUERYING_SCRAPED_CSV_DATA_IN_POSTGRESQL.png)
 
 
 
