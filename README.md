@@ -5,8 +5,9 @@ This project focuses on analyzing internship data scraped from Internshala. The 
 
 
 
-## DASHBOARD PREVIEW :
-Power%20Bi%20Dashboard/WEB_SCRAPED_INTERNSHALA_DATA_DASHBOARD-1.png
+## Dashboard Preview
+
+![Dashboard](dashboard/Dashboard_photo.png)
 
 
 
